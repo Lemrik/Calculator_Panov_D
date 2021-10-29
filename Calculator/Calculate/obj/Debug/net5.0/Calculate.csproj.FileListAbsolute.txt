@@ -1,0 +1,16 @@
+C:\Users\Lemri\source\repos\Calculate\Calculate\bin\Debug\net5.0\Calculate.exe
+C:\Users\Lemri\source\repos\Calculate\Calculate\bin\Debug\net5.0\Calculate.deps.json
+C:\Users\Lemri\source\repos\Calculate\Calculate\bin\Debug\net5.0\Calculate.runtimeconfig.json
+C:\Users\Lemri\source\repos\Calculate\Calculate\bin\Debug\net5.0\Calculate.runtimeconfig.dev.json
+C:\Users\Lemri\source\repos\Calculate\Calculate\bin\Debug\net5.0\Calculate.dll
+C:\Users\Lemri\source\repos\Calculate\Calculate\bin\Debug\net5.0\ref\Calculate.dll
+C:\Users\Lemri\source\repos\Calculate\Calculate\bin\Debug\net5.0\Calculate.pdb
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\Calculate.csproj.AssemblyReference.cache
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\Calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\Calculate.AssemblyInfoInputs.cache
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\Calculate.AssemblyInfo.cs
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\Calculate.dll
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\ref\Calculate.dll
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\Calculate.pdb
+C:\Users\Lemri\source\repos\Calculate\Calculate\obj\Debug\net5.0\Calculate.genruntimeconfig.cache

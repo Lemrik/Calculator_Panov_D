@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Lemri\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Lemri\\.nuget\\packages"
+    ]
+  }
+}

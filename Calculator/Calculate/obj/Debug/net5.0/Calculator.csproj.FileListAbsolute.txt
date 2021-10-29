@@ -1,0 +1,16 @@
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Projects .NET\Calculate\Calculate\Calculate\bin\Debug\net5.0\Calculator.exe
+D:\Projects .NET\Calculate\Calculate\Calculate\bin\Debug\net5.0\Calculator.deps.json
+D:\Projects .NET\Calculate\Calculate\Calculate\bin\Debug\net5.0\Calculator.runtimeconfig.json
+D:\Projects .NET\Calculate\Calculate\Calculate\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+D:\Projects .NET\Calculate\Calculate\Calculate\bin\Debug\net5.0\Calculator.dll
+D:\Projects .NET\Calculate\Calculate\Calculate\bin\Debug\net5.0\ref\Calculator.dll
+D:\Projects .NET\Calculate\Calculate\Calculate\bin\Debug\net5.0\Calculator.pdb
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\Calculator.dll
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\ref\Calculator.dll
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\Calculator.pdb
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
+D:\Projects .NET\Calculate\Calculate\Calculate\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
